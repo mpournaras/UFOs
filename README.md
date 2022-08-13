@@ -35,10 +35,10 @@ The user must know specific dates, cities, or other entries in fields to search.
 The scaling on my browser (Google Chrome) was not ideal either. It was a full page of information but the font was small on my very standard monitor. Zooming helped but I would like to not have to do that. Perhaps have it auto scale to the monitor.
 
 ### Recommendations: 
-1. The next addition to the filters should be to add a trim function. This would allow it to catch spaces at the end of words and allow for various character cases at the beginning or end of words. San Diego for example had 3 sighings in January 2010
-2. 
+1. The next addition to the filters should be to add a trim function. This would allow it to catch spaces at the end of words and allow for various character cases at the beginning or end of words. San Diego for example had 3 sightings in January 2010.
+
 ![Pic 4](https://github.com/mpournaras/UFOs/blob/main/static/images/trim.PNG)
 
-2. A date range could be preferable than a singular date.  It would be understandable to not know the single date you would be looking for.  Perhaps, the UFO Sightings occur more frequently in a specific month instead of a specific day within the month.  I would recommend to add a filter function to include a date range as the filter to aid in the investigation of UFO Sightings. San Diego for example had 3 sighings in January 2010
+2. A date range could be preferable than a singular date.  It would be understandable to not know the single date you would be looking for.  Perhaps, the UFO Sightings occur more frequently in a specific month instead of a specific day within the month.  I would recommend to add a filter function to include a date range as the filter to aid in the investigation of UFO Sightings. San Diego for example had 3 sightings in January 2010
 
 ![Pic 5](https://github.com/mpournaras/UFOs/blob/main/static/images/date.PNG)

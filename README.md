@@ -1,5 +1,7 @@
 # UFO Sightings using JavaScript!
 
+![Banner 1](https://github.com/mpournaras/UFOs/blob/main/static/images/banner.PNG)
+
 ## Purpose
 1. Explain the strengths and weaknesses of JavaScript "standard" and JavaScript version ES6+.
 2. Describe JavaScript syntax and ideal use cases.
